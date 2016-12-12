@@ -1,0 +1,2 @@
+# saltstack
+my first repositor
